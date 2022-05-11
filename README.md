@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keeganchua
-- 👀 I’m interested in Java Programming.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in network programming.
+- 🌱 I’m currently learning Jpcap (Capture Network Traffic in Java)
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at hengquan0204@gmail.com
 
