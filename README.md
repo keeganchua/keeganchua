@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keeganchua
 - 👀 I’m interested in designing software systems.
-- 🌱 I’m currently learning how to create a non-web application using JavaFX (frontend UI) & backend (not decided).
+- 🌱 I’m currently learning how to create a non-web application using JavaFX (frontend UI) & backend (not decided if need to be included).
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at hengquan0204@gmail.com
 
