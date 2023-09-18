@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keeganchua
 - 👀 I’m interested in designing software systems.
-- 🌱 I’m currently learning how to build frontend web development using React JS.
+- 🌱 I’m currently learning how to build web development using React and Node JS locally.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at hengquan0204@gmail.com
 
